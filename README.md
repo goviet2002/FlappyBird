@@ -1,5 +1,6 @@
-# 🐦 Flappy Bird (Python, BasicIO)
+# 🐦 Flappy Bird
 
+### Einführung in die Programmierung Praktikum – JGU Mainz
 This is a recreation of the famous Flappy Bird game using the `basic_io` graphics library provided by my university. The library supports basic graphics functions (drawing polygons, rectangles, images, etc.) and keyboard input handling.
 
 ## 🎮 How to Play
